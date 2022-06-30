@@ -1,5 +1,5 @@
 # java-crud-mysql
-### Este projeto foi desenvolvido para o Alura Challenge JAVA como parte do programa Oracle Next Education em parceria com a Alura.
+### Este projeto foi desenvolvido para o Alura Challenge JAVA como parte do programa Oracle Next Education.
 
 <p> O projeto simula um sistema de RH para cadastro de funcionários ou motoristas terceirizados de uma empresa. Consiste num CRUD, persistindo os dados num servidor local MySQL </p>
 
